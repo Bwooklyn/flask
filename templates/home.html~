@@ -1,0 +1,9 @@
+<form method="get">
+
+Number:  <input type="text" value="number">
+<br></br>
+Chamber:  <input type="text" value="chamber">
+<br><br>
+<input type="submit">
+
+</form>
